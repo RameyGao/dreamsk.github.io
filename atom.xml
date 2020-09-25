@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>高帅的随笔</title>
+  <title>高帅随笔</title>
   <icon>https://www.gravatar.com/avatar/e779de168f3389322d2b9b3690831d12</icon>
   
   <link href="/atom.xml" rel="self"/>
